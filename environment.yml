@@ -1,0 +1,14 @@
+name: root
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - astropy
+  - matplotlib
+  - matplotlib-base
+  - numpy
+  - pip
+  - scipy
+  - pip:
+    - corner>=2.0.1
+    - wquantiles
