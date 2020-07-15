@@ -7,5 +7,5 @@ In this notebook we will give several examples of how to reproduce plots and cal
 
 Please contact the corresponding author at caitlin.witt@nanograv.org with questions. We are happy to provide the full length MCMC chains for use in your analyses upon request. 
 
-##Instructions
+## Instructions
 This notebook can be run online through the linked MyBinder, or downloaded and run locally with the listed package requirements. The initial cells can be run on each of the packaged chains to inspect the sampling of the MCMC. The subsequent sections use the packaged chains to recreate key plots and calculations from the analysis. 
